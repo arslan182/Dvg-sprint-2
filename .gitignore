@@ -21,4 +21,4 @@ env/
 .env 
 
 # Docker
-*.log 
+#*.log 
