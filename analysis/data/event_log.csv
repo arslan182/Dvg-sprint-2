@@ -1,0 +1,15 @@
+Case_ID,Activity,Timestamp
+R-100,Rechnung empfangen,2026-04-20 09:00:01
+R-100,Metadaten gespeichert,2026-04-20 09:00:03
+R-100,Zahlung veranlasst,2026-04-20 09:00:15
+R-101,Rechnung empfangen,2026-04-20 09:10:00
+R-101,Metadaten gespeichert,2026-04-20 09:10:05
+R-101,Zahlung veranlasst,2026-04-20 09:10:20
+R-102,Rechnung empfangen,2026-04-20 10:00:00
+R-102,Metadaten gespeichert,2026-04-20 10:00:02
+R-102,Zahlung veranlasst,2026-04-20 10:00:12
+R-103,Rechnung empfangen,2026-04-20 11:30:00
+R-103,Metadaten gespeichert,2026-04-20 11:30:10
+R-104,Rechnung empfangen,2026-04-20 12:00:00
+R-104,Metadaten gespeichert,2026-04-20 12:00:05
+R-104,Zahlung veranlasst,2026-04-20 12:00:18
